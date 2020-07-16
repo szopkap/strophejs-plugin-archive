@@ -1,0 +1,19 @@
+{
+  "name": "strophejs-plugin-archive",
+  "version": "1.1.0",
+  "description": "A strophe.js plugin to provide Message Archiving ( XEP-0136 )",
+  "main": "strophe.archive.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strophe/strophejs-plugin-archive.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strophe/strophejs-plugin-archive/issues"
+  },
+  "homepage": "https://github.com/strophe/strophejs-plugin-archive#readme",
+  "peerDependencies": {
+    "strophe.js": ">=1.2"
+  }
+}
